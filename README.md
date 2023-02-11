@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pasindu Sampath</h1>
 <h3 align="center">A passionate developer from SriLanka</h3>
 
+<img src = "https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3866.jpg?w=740&t=st=1676088568~exp=1676089168~hmac=54fd3f50a56fcd13cf188310c50b8683e6e594caaab5365d88b508e7ce36cb59">
+
 - 🌱 I’m currently learning **Internet Technologies**
 
 - 👨‍💻 All of my projects are available at [https://pasindusampath.github.io/My-Web-Profile/](https://pasindusampath.github.io/My-Web-Profile/)
