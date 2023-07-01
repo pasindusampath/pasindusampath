@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Internet Technologies**
 
-- 👨‍💻 All of my projects are available at <a href="https://pasindusampath.github.io/My-Web-Profile/">PORTFOLIO</a>
+- 👨‍💻 All of my projects are available at <a href="[https://pasindusampath.github.io/My-Web-Profile/](https://pasindusampath.github.io/My-Portfolio/)">PORTFOLIO</a>
 
 - 💬 Ask me about **JAVA,MYSQL**
 
