@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Internet Technologies**
 
-- 👨‍💻 All of my projects are available at [https://pasindusampath.github.io/My-Web-Profile/](https://pasindusampath.github.io/My-Web-Profile/)
+- 👨‍💻 All of my projects are available at [https://pasindusampath.github.io/My-Web-Profile/]([https://pasindusampath.github.io/My-Web-Profile/)]
 
 - 💬 Ask me about **JAVA,MYSQL**
 
