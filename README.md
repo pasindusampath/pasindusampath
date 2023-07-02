@@ -4,7 +4,10 @@
 <img src = "https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 
 # 💫 About Me:
-- 🌱 I’m currently learning **Internet Technologies**<br><br>- 👨‍💻 All of my projects are available at <a href="https://pasindusampath.github.io/My-Portfolio/">PORTFOLIO</a><br><br>- 💬 Ask me about **JAVA,MYSQL,Hibernate,Socket Programming In Java**<br><br>- 📫 How to reach me **pasindub32@gmail.com**<br>
+- 🌱 I’m currently learning **JAVA EE And Networking**<br><br>-
+- 👨‍💻 All of my projects are available at <a href="https://pasindusampath.github.io/My-Portfolio/">PORTFOLIO</a><br><br>-
+- 💬 Ask me about **JAVA,MYSQL,Hibernate,Socket Programming In Java**<br><br>-
+- 📫 How to reach me **pasindub32@gmail.com**<br>
 
 
 ## 🌐 Socials:
