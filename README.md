@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pasindu Sampath</h1>
 <h3 align="center">A passionate developer from SriLanka</h3>
 
-<img src = "https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3866.jpg?w=740&t=st=1676088568~exp=1676089168~hmac=54fd3f50a56fcd13cf188310c50b8683e6e594caaab5365d88b508e7ce36cb59">
+<img src = "https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 
 # 💫 About Me:
 - 🌱 I’m currently learning **Internet Technologies**<br><br>- 👨‍💻 All of my projects are available at <a href="https://pasindusampath.github.io/My-Portfolio/">PORTFOLIO</a><br><br>- 💬 Ask me about **JAVA,MYSQL,Hibernate,Socket Programming In Java**<br><br>- 📫 How to reach me **pasindub32@gmail.com**<br>
