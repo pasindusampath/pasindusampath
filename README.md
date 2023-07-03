@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pasindu Sampath</h1>
+<h1 align="center">Hi 👋, I'm 👽</h1>
 <h3 align="center">A passionate developer from SriLanka</h3>
 
 <img src = "https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
