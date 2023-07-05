@@ -1,8 +1,3 @@
-<style>
-  .graph-before-activity-overview td{
-    background-color:red;
-  }
-</style>
 
 <h1 align="center">Hi 👋, I'm 👽</h1>
 <h3 align="center">A passionate developer from SriLanka</h3>
