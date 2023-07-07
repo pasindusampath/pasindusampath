@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 - 🌱 I’m currently learning **JAVA EE And Networking**<br><br>-
-- 👨‍💻 All of my projects are available at <a href="https://pasindusampath.github.io/My-Portfolio/">PORTFOLIO</a><br><br>-
+- 👨‍💻 Visit My <a href="https://pasindusampath.github.io/My-Portfolio/">PORTFOLIO</a><br><br>-
 - 💬 Ask me about **JAVA,JAVAFX,MYSQL,Hibernate,Javascript,HTML,CSS**<br><br>-
 - 📫 How to reach me **pasindub32@gmail.com**<br>
 
