@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm 👽</h1>
 <h3 align="center">A Student at IJSE</h3>
 
-<p align="center">
+
 <img src = "https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 
 # 💫 About Me:
@@ -34,6 +34,7 @@
 
 
 ---
+<p align="center">
 [![](https://visitcount.itsvg.in/api?id=pasindusampath&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </p>
