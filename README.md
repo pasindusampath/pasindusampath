@@ -1,4 +1,4 @@
-<h1 color="green" align="center">Dσ Sσɱҽƚԋιɳɠ Tԋαƚ Nσ Oɳҽ Cαɳ Iɱαɠιɳҽ</h1>
+<h1 style="color:#149414"    align="center">Dσ Sσɱҽƚԋιɳɠ Tԋαƚ Nσ Oɳҽ Cαɳ Iɱαɠιɳҽ</h1>
 <h1 align="center">Hi 👋, I'm 👽</h1>
 <h3 align="center">A Student at IJSE</h3>
 
