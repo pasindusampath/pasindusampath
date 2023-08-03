@@ -12,6 +12,7 @@
 - 👨‍💻 Visit My <a href="https://pasindusampath.github.io/My-Portfolio/">PORTFOLIO</a><br><br>-
 - 💬 Ask me about **JAVA,JAVAFX,MYSQL,Hibernate,Javascript,HTML,CSS**<br><br>-
 - 📫 How to reach me **pasindub32@gmail.com**<br>
+- <a href="https://www.upwork.com/freelancers/~0122d452089b50541e">Hire Me</a>
 
 
 ## 🌐 Socials:
