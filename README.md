@@ -11,9 +11,14 @@
 - 🌱 I’m currently learning **JAVA EE And Networking**<br><br>-
 - 👨‍💻 Visit My <a href="https://pasindusampath.github.io/My-Portfolio/">PORTFOLIO</a><br><br>-
 - 💬 Ask me about **JAVA,JAVAFX,MYSQL,Hibernate,Javascript,HTML,CSS**<br><br>-
-- 📫 How to reach me **pasindub32@gmail.com**<br>
-- <a href="https://www.upwork.com/freelancers/~0122d452089b50541e">Hire Me</a>
+- 📫 How to reach me **pasindub32@gmail.com**<br>-
 
+##
+<img src="https://imgur.com/TLpZ1jf.png" width=50px> 
+<h3><a href="https://www.upwork.com/freelancers/~0122d452089b50541e">Hire Me</a></h3>
+
+##
+<a></a>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/PASINDU.T.B) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pasindu-tb) 
