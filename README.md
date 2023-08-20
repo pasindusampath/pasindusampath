@@ -2,7 +2,7 @@
 <h1>$${\color{lightgreen}Dσ \space\space Sσɱҽƚԋιɳɠ \space\space Tԋαƚ \space\space Nσ \space\space Oɳҽ \space\space  Cαɳ \space\space Iɱαɠιɳҽ}$$
 </h1>
 <h1 align="center">Hi 👋, I'm 👽</h1>
-<h3 align="center">A Student at IJSE</h3>
+<h3 align="center">A Student</h3>
 
 
 <img src = "https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
