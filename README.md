@@ -1,5 +1,5 @@
 
-<h1>$${\color{lightgreen}Dσ \space\space Sσɱҽƚԋιɳɠ \space\space Tԋαƚ \space\space Nσ \space\space Oɳҽ \space\space  Cαɳ \space\space Iɱαɠιɳҽ}$$
+<h1 align="center">Dσ  Sσɱҽƚԋιɳɠ  Tԋαƚ  Nσ  Oɳҽ   Cαɳ  Iɱαɠιɳҽ
 </h1>
 <h1 align="center">Hi 👋, I'm 👽</h1>
 <h3 align="center">A Student</h3>
