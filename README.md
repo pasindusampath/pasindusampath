@@ -19,10 +19,15 @@
 
 ##
 <a></a>
+</>CODEIUM
 
-##</>CODEIUM
+<img src = 'wrapped2023.png'>
+
 [![autocomplete](https://codeium.com/badges/user/pasindusampath/autocomplete)](https://codeium.com/profile/pasindusampath)
 [![streak](https://codeium.com/badges/v2/user/pasindusampath/streak)](https://codeium.com/profile/pasindusampath)
+
+##
+<a></a>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/PASINDU.T.B) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pasindu-tb) 
