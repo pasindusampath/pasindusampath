@@ -2,7 +2,7 @@
 <h1 align="center">Dσ  Sσɱҽƚԋιɳɠ  Tԋαƚ  Nσ  Oɳҽ   Cαɳ  Iɱαɠιɳҽ
 </h1>
 <h1 align="center">Hi 👋, I'm 👽</h1>
-<h3 align="center">A Student</h3>
+<h3 align="center">A Student , A Tutor</h3>
 
 
 <img src = "https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
