@@ -9,7 +9,7 @@
 
 # 💫 About Me:
 
-- 👨‍💻 Visit My <a href="https://pasindusampath.github.io/My-Portfolio/">PORTFOLIO</a><br><br>-
+- 👨‍💻 Visit My <a href="https://pasindusampath.netlify.app/">PORTFOLIO</a><br><br>-
 - 💬 Ask me about **JAVA,JAVAFX,MYSQL,Hibernate,Javascript,HTML,CSS**<br><br>-
 - 📫 How to reach me **pasindub32@gmail.com**<br>-
 
