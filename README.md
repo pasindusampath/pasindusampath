@@ -23,9 +23,6 @@
 
 <img src = 'wrapped2023.png'>
 
-[![autocomplete](https://codeium.com/badges/user/pasindusampath/autocomplete)](https://codeium.com/profile/pasindusampath)
-[![streak](https://codeium.com/badges/v2/user/pasindusampath/streak)](https://codeium.com/profile/pasindusampath)
-
 ##
 <a></a>
 
