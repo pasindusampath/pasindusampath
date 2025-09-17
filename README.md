@@ -19,8 +19,8 @@
 </div>
 
 - 🎓 **Student** | 📚 **Tutor** | 💼 **Associate Software Engineer**
-- 💬 Ask me about **Java, JavaFX, MySQL, Hibernate, JavaScript, HTML, CSS**
-- 🌱 Currently learning **Spring Boot, Angular, TypeScript**
+- 💬 Ask me about **Java, JavaScript, TypeScript, MySQL, PostgreSQL, MongoDB, Express.js, Spring, Google Cloud, OpenAI APIs, Meta WhatsApp Cloud API**
+- 🌱 Currently learning **VPS Hosting & Server Management**
 - ⚡ Fun fact: I love creating things that challenge the impossible!
 
 ---
@@ -57,6 +57,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Meta WhatsApp Cloud API](https://img.shields.io/badge/Meta%20WhatsApp%20Cloud%20API-1877F2?style=for-the-badge&logo=meta&logoColor=white)
 
 ### Development Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
