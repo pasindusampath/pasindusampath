@@ -9,9 +9,9 @@
 
 # 💫 About Me:
 
-- 👨‍💻 Visit My <a href="https://pasindusampath.netlify.app/">PORTFOLIO</a><br><br>-
+- 👨‍💻 Visit My <a href="https://pasindusampath.com/">PORTFOLIO</a><br><br>-
 - 💬 Ask me about **JAVA,JAVAFX,MYSQL,Hibernate,Javascript,HTML,CSS**<br><br>-
-- 📫 How to reach me **pasindub32@gmail.com**<br>-
+- 📫 How to reach me **hello@pasindusampath.com**<br>-
 
 ##
 <img src="https://imgur.com/TLpZ1jf.png" width=50px> 
