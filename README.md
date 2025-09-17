@@ -65,11 +65,11 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pasindusampath&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pasindusampath&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=20&card_width=400)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pasindusampath&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pasindusampath&theme=dark&hide_border=false&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindusampath&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindusampath&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=400)
 
 </div>
 
@@ -109,7 +109,7 @@
 
 <div align="center">
   
-![Profile Views](https://visitcount.itsvg.in/api?id=pasindusampath&icon=8&color=3)
+![Profile Views](https://komarev.com/ghpvc/?username=pasindusampath&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
 **Thanks for visiting! 😊**
 
