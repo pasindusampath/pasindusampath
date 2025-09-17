@@ -65,11 +65,15 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pasindusampath&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=20&card_width=400)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pasindusampath&theme=github_dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pasindusampath&theme=dark&hide_border=false&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pasindusampath&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindusampath&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=400)
+![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pasindusampath&theme=github_dark&utcOffset=8)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pasindusampath&theme=github_dark)
+
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pasindusampath&theme=github_dark)
 
 </div>
 
