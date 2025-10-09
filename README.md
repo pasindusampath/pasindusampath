@@ -92,7 +92,7 @@
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pasindusampath&theme=github_dark)
 
-![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pasindusampath&theme=github_dark&utcOffset=8)
+![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pasindusampath&theme=github_dark&utcOffset=5.30)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pasindusampath&theme=github_dark)
 
