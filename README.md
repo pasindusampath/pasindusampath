@@ -20,7 +20,7 @@
 
 - 🎓 **Student** | 📚 **Tutor** | 💼 **Associate Software Engineer**
 - 💬 Ask me about **Java, JavaScript, TypeScript, MySQL, PostgreSQL, MongoDB, Express.js, Spring, Google Cloud, OpenAI APIs, Meta WhatsApp Cloud API**
-- 🌱 Currently learning **VPS Hosting & Server Management**
+- 🌱 Currently learning **VPS Hosting & Server Management, n8n Automation, API Testing with Jest & Supertest**
 - ⚡ Fun fact: I love creating things that challenge the impossible!
 
 ---
@@ -46,6 +46,11 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+### Testing & Automation
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-07C160?style=for-the-badge&logo=testing-library&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
