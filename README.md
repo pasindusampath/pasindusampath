@@ -1,2 +1,2 @@
 ...
-<a href="https://app.daily.dev/pasindusampath"><img src="https://api.daily.dev/devcards/v2/RaZioifHxAyb9HylebElR.png?r=uxv" width="356" alt="Pasindu Sampath's Dev Card"/></a>
+
